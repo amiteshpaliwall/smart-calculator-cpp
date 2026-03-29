@@ -29,5 +29,19 @@ A command-line based smart calculator developed using C++.
 8. History
 0. Exit
 
+   ## How to Run
+
+1. Clone the repository
+git clone https://github.com/amiteshpaliwall/smart-calculator-cpp.git
+
+2. Go to the project folder
+cd smart-calculator-cpp
+
+3. Compile the program
+g++ smart_calculator.cpp -o calculator
+
+4. Run the program
+./calculator
+
 ## Author
-Your Name
+Amitesh Paliwal
